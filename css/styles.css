@@ -3,7 +3,7 @@ span {
 }
 
 #picture {
-  height: 300px;
+  height: 200px;
   width: auto;
 }
 
@@ -13,8 +13,13 @@ h1 {
   color: blue;
 }
 
+h2{
+  text-align: center;
+}
+
+
 body {
-  background-color: gray;
+  background-image: url("../image/beige-tiles.png");
 }
 
 .column {
@@ -22,4 +27,7 @@ body {
   border: 2px solid black;
   padding: 4px;
   float: right;
+}
+.container{
+  background-image: url("../image/beige-tiles.png");
 }
