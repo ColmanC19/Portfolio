@@ -8,7 +8,8 @@
 
 I made this html page utilizing css and bootstrap. I incorporated divs, spans, anchors, p, h, ul, ol, li, em, strong and img
 
-As long as you can git clone this to a local repository then you'll be able to contribute
+As long as you can git clone this to a local repository then you'll be able to contribute.
+
 [View my page](https://colmanc19.github.io/Portfolio/)
 
 If you wish to discuss any issues, problems or have advice please contact my at: curriecolman@gmail.com
