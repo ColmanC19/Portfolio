@@ -1,16 +1,16 @@
-# _Colman's Portfolio_
+# Colman's Portfolio
 
-#### _This is a Portfolio I made about myself. It is my first project outside of class here at Epicodus, 8.24.2019_
+#### This is a Portfolio I made about myself. It is my first project outside of class here at Epicodus, 8.24.2019
 
-#### By _**Colman Currie**_
+#### By **Colman Currie**
 
 ## Description
 
-_I made this html page utilizing css and bootstrap. I incorporated divs, spans, anchors, p, h, ul, ol, li, em, strong and img _
+I made this html page utilizing css and bootstrap. I incorporated divs, spans, anchors, p, h, ul, ol, li, em, strong and img
 
-_As long as you can git clone this to a local repository then you'll be able to contribute_
+As long as you can git clone this to a local repository then you'll be able to contribute
 
-_If you wish to discuss any issues, problems or have advice please contact my at: curriecolman@gmail.com_
+If you wish to discuss any issues, problems or have advice please contact my at: curriecolman@gmail.com
 
 Copyright (c) <2019> <Colman Currie>
 
